@@ -7,7 +7,7 @@ This project uses Hardhat as the Solidity development environment. Run the follo
 ```
 yarn hardhat compile
 ```
-
+ 
 ## Testing
 
 Tests can be found in the `test` directory, and can be run with the following:
